@@ -25,14 +25,7 @@
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Pametr88&show_icons=true&locale=en)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pametr88)
 
-### Estadísticas:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pametr88&layout=compact&langs_count=6&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pametr88&show_icons=true&locale=en&count_private=true&theme=algolia"/>
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pametr88&theme=algolia"/>
-</div>
+
 <!--
 **Pametr88/Pametr88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   20:46
